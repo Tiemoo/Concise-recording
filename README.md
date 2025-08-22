@@ -28,7 +28,7 @@ python Concise-recording.py
 ## 一键打包单文件
 ### 1.安装开发依赖
 ```bash
-pyinstaller -F -w -i icon.ico main.py
+pyinstaller -F -w -i logo.ico Concise-recording.py
 ```
 生成的 exe 在 dist/ 目录。
 
