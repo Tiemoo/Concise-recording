@@ -22,13 +22,13 @@
 git clone https://github.com/Tiemoo/Concise-recording.git
 cd Concise-recording
 pip install -r requirements.txt
-python Concise-recording.py
+python Concise-recording_tips.py
 ```
 ---
 ## 一键打包单文件
 ### 1.打包exe
 ```bash
-pyinstaller -F -w -i logo.ico Concise-recording.py
+pyinstaller -F -w -i logo.ico Concise-recording_tips.py
 ```
 生成的 exe 在 dist/ 目录。
 
