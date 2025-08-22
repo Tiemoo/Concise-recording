@@ -1,5 +1,5 @@
 # Concise Recording
-一个轻量级、无广告的 Windows 屏幕录制工具。  
+一个轻量级、极致低占用 Windows 屏幕录制工具。 
 基于 Python + PyQt6 + OpenCV，单文件即可运行，不写注册表、不留垃圾。
 
 ---
